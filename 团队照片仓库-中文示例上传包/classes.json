@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "dataset": "self_captured_nine_shapes",
+  "names": {"0": "cube", "1": "cuboid", "2": "hexagonal_prism", "3": "cylinder", "4": "pentagonal_prism", "5": "triangular_prism", "6": "triangular_pyramid", "7": "sphere", "8": "cone"},
+  "names_zh": {"0": "正方体", "1": "长方体（不含正方体）", "2": "六棱柱", "3": "圆柱", "4": "五棱柱", "5": "三棱柱", "6": "三棱锥", "7": "球", "8": "圆锥"},
+  "note": "自摄数据新编号，正式标注前核对实物；颜色不作为类别；不要套用旧七类编号。"
+}
